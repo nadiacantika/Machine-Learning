@@ -1,0 +1,8 @@
+7 columns
+jenis_Putra
+jenis_Putri
+AC_AC
+Wifi_WiFi
+Kasur_Kasur
+Kamar_Mandi_Dalam_KMD
+Kloset_Duduk_KD
